@@ -17,7 +17,11 @@
 ###
 
 <h3 align="left">👩‍💻 I'm Ketan, an engineering student at IIIT Nagpur passionate about building scalable backend systems, decentralized applications, and real-time platforms.</h3>
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1C9cNoDww35makjsX2lW1atK0nYkuVIh2/view?usp=drive_link" target="_blank">
+    📄 <b>View Resume</b>
+  </a>
+</p>
 ###
 
 <p align="left">🔭 I’m currently working on full-stack applications using MERN, WebSockets, and different backend  technologies.<br><br>📚 I'm learning DSA and system design.<br><br>⚡ In my free time I experiment with new technologies, build side projects, and solve algorithmic problems.</p>
