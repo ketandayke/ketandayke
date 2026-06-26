@@ -1,74 +1,125 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm Ketan Dayke 👋
 
-###
+### Backend Engineer | System Design Enthusiast | Full Stack Developer
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I'm an engineering student at **IIIT Nagpur** passionate about building scalable backend systems, distributed applications, and real-time platforms.
 
-###
+Currently exploring how large-scale systems work under the hood by learning **System Design**, **Distributed Systems**, and implementing backend concepts from scratch in JavaScript.
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 🌐 Connect with Me
 
-<h3 align="left">👩‍💻 I'm Ketan, an engineering student at IIIT Nagpur passionate about building scalable backend systems, decentralized applications, and real-time platforms.</h3>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1C9cNoDww35makjsX2lW1atK0nYkuVIh2/view?usp=drive_link" target="_blank">
-    📄 <b>View Resume</b>
-  </a>
-</p>
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ketan-dayke-kd050703)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge\&logo=googledrive\&logoColor=white)](https://drive.google.com/file/d/1DIgNW6ENan1fkthW2jWOXqOIPMO7uMwn/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ketandayke@gmail.com)
 
-<p align="left">🔭 I’m currently working on full-stack applications using MERN, WebSockets, and different backend  technologies.<br><br>📚 I'm learning DSA and system design.<br><br>⚡ In my free time I experiment with new technologies, build side projects, and solve algorithmic problems.</p>
+---
 
-###
+# 👨‍💻 About Me
 
-<h3 align="left">🛠 Language and tools</h3>
+* 🎓 B.Tech in Internet of Things at **IIIT Nagpur**
+* 💻 Backend Developer focused on scalable applications
+* 📚 Currently learning **System Design** and **Distributed Systems**
+* ⚡ Interested in Backend Architecture, Databases, Real-Time Systems, AI and Web3
+* 🚀 Love building production-oriented backend projects
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
+# 🚀 Currently Working On
 
-###
+* 📖 Backend Engineering Handbook
+* ⚙️ System Design implementations in JavaScript
+* 🏗️ Distributed Systems fundamentals
+* 💡 Backend-focused side projects
 
-<p align="left">
-### 📫 Open to Opportunities<br>- Software Engineering Internships (Backend / Full Stack )</p>
+---
 
-###
+# 🛠️ Tech Stack
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+### Languages
 
-###
+* JavaScript
+* C++
+* Python
+* SQL
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* WebSockets
+* Socket.IO
+
+### Frontend
+
+* React
+* Tailwind CSS
+* HTML
+* CSS
+
+### Databases
+
+* MongoDB
+* MySQL
+* Redis
+* PostgreSQL *(Learning)*
+
+### Tools
+
+* Git
+* Docker
+* Linux
+* Postman
+* VS Code
+
+### Blockchain & AI
+
+* Solidity
+* Hardhat
+* IPFS
+* LangChain
+* ChromaDB
+* Groq API
+
+---
+
+# 📌 Featured Projects
+
+### 🎵 Mytofy
+
+Real-time collaborative music streaming platform built with WebSockets and Node.js.
+
+### 🎓 SkillBridge
+
+AI-powered decentralized learning platform built using blockchain technologies.
+
+### 🤖 YT Chat AI
+
+RAG-powered chatbot that answers questions from YouTube videos.
+
+### 📚 Backend Engineering
+
+A collection of backend concepts with JavaScript implementations, diagrams, and production use cases.
+
+---
+
+# 📈 Currently Learning
+
+* ✅ Data Structures & Algorithms
+* ✅ Backend Development
+* 🚧 System Design
+* 🚧 Distributed Systems
+* 🚧 Database Internals
+* 🚧 Cloud & DevOps
+
+---
+
+## 📫 Open to Opportunities
+
+I'm actively looking for **Backend**, **Software Engineering**, and **Full Stack** internship opportunities.
+
+---
+
+> *"I enjoy understanding how systems work under the hood and building scalable software that solves real-world problems."*
